@@ -6,7 +6,7 @@ Experienced software engineer with over 3 years of professional experience in de
 
 ### 🛠️ Technical Skills
 - **Programming Languages**: JavaScript, Python, TypeScript, C#, PHP
-- **Frameworks & Libraries**: React, Node.js, Express.js, Django, Windows Forms, Svelte, Angular
+- **Frameworks & Libraries**: React, Node.js, Express.js, Django, Windows Forms, Svelte, Angular, Bootstrap, Tailwind CSS
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps**: Docker
 - **Tools & Technologies**: Git, Linux, RESTful APIs
